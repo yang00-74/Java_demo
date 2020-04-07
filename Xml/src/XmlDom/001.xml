@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-stylesheet type="text/css" href="001.css"?><xml-body>
+<!--原始数据区，不会被解析-->
+<![CDATA[
+      <a>中国</a>     
+]]>
+      <b>
+              <b1 id="b1">American
+              <Position>北美洲</Position>
+              </b1>
+              <b2 id="b2">Japan</b2>
+      </b>
+</xml-body>
